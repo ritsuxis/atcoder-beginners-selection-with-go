@@ -1,3 +1,5 @@
 # atcoder-beginners-selection-with-go
+AtCoder Beginners SelectionをGoで解き直すためのリポジトリ
 
-[ABS](https://atcoder.jp/contests/abs)
+## 問題が載っているサイト
+https://atcoder.jp/contests/abs
